@@ -1,0 +1,37 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Container_Ship_1001_Diffuse.tga
+bump Container_Ship_1001_Normal.tga -bm 0.1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Container_Ship_1001_Specular.tga
+newmtl blinn1002SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Container_Ship_1002_Diffuse.tga
+bump Container_Ship_1002_Normal.tga -bm 0.1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Container_Ship_1002_Specular.tga
+newmtl blinn1003SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Container_Ship_1011_Diffuse.tga
+bump Container_Ship_1011_Normal.tga -bm 0.1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Container_Ship_1011_Specular.tga
+newmtl blinn1004SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.50 0.50 0.50
